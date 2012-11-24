@@ -1,0 +1,6 @@
+#key|name|cooldown
+112|blue buff|300
+113|red buff|300
+114|drake|360
+115|their blue buff|300
+116|their red buff|300
